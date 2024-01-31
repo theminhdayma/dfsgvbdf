@@ -1,0 +1,437 @@
+.content {
+    margin: auto;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.content-first {
+    margin-top: 100px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+}
+
+.content-1 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+.content-1-left {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.icon {
+    display: flex;
+    gap: 10px;
+}
+.between{
+    width: 30px;
+    height: 30px;
+    border: 1px solid gray;
+    border-radius: 50%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fa {
+    transform: scale(1.5);
+}
+
+.content-1-right {
+    position: relative;
+    left: 80px;
+    display: flex;
+    gap: 40px;
+}
+
+.information {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.dots-2-mark {
+    position: relative;
+    left: 25px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.time {
+    color: rgb(35, 152, 230);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.content-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.content-2-top {
+    display: flex;
+    gap: 20px;
+}
+
+.introduce-1 {
+    width: 200px;
+    height: 70px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.img-4 {
+    width: 30px;
+    height: 30px;
+}
+
+.chu {
+    font-size: 12px;
+    color: rgb(206, 206, 206);
+}
+
+.introduce-1-right {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.content-2-bottom {
+    display: flex;
+    gap: 10px;
+}
+
+.introduce-2 {
+    width: 250px;
+    height: 70px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.content-second {
+    margin-top: 100px;
+    width: 80%;
+    height: 300px;
+    background-color: rgb(222, 222, 222);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.floating {
+    position: relative;
+    left: 70px;    
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.floating-left {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.writing-bottom {
+    font-size: 13px;
+    font-weight: 500px;
+    color: rgb(95, 95, 95);
+}
+
+.floating-right {
+    width: 350px;
+    height: 35px;
+    border: 1px solid rgb(201, 201, 201);
+    background-color: white;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+}
+
+.email-address {
+    width: 130px;
+    padding: 10px;
+}
+
+.press {
+    width: 150px;
+    height: 35px;
+    background-color: rgb(48, 48, 67);
+    color: white;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.backgrounnd-right {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 50px;
+    left: -20px;
+}
+
+.content-third {
+    width: 80%;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+}
+
+.second-top {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.work {
+    width: 50px;
+    height: 25px;
+    background-color: rgb(198, 244, 229);
+    color: rgb(41, 240, 240);
+    font-size: 14px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.get {
+    font-family: 'Salsa', cursive;
+}
+
+.ul {
+    position: relative;
+    top: 30px;
+    left: 10px;
+    display: flex;
+    gap: 50px;
+}
+
+.thanh-ngang {
+    width: 122%;
+    height: 1px;
+    background-color: #888;
+}
+.li-item {
+    display: flex;
+    flex-direction: column;
+}
+.gach {
+    width: 40px;
+    height: 2px;
+    background-color: aqua;
+    position: relative;
+    top: 20px;
+    left: -10px;
+}
+.table {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.table-rrow {
+    display: flex;
+    gap: 20px;
+}
+
+.introduce-3 {
+    width: 300px;
+    height: 150px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.khung {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.mau-xanh {
+    color: rgb(38, 209, 239);
+}
+
+.khoi {
+    display: flex;
+    gap: 10px;
+}
+
+.writing {
+    width: 80px;
+    height: 25px;
+    background-color: rgb(185, 207, 239);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    color: blue;
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.backgrounnd {
+    margin-top: 100px;
+    width: 105%;
+    height: 600px;
+    background-color: rgb(224, 224, 224);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.personal-information {
+    width: 85%;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;  
+}
+
+.personal {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.personal-top {
+    font-weight: 700px;
+    color: rgb(82, 82, 82);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.personal-bottom {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.name-email {
+    display: flex;
+    gap: 30px;
+}
+.input {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.input input[type="text"] {
+    width: 200px;
+    height: 25px;
+    font-size: 11px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    color: #888;
+}
+
+.input input[type="email"] {
+    width: 200px;
+    height: 25px;
+    font-size: 11px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    color: #888;
+}
+
+.subject-contact {
+    display: flex;
+    gap: 30px;
+}
+
+.input input[type="tel"] {
+    width: 200px;
+    height: 25px;
+    font-size: 11px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    color: #888;
+}
+
+.message {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+textarea {
+    width: 430px;
+    height: 90px;
+    font-size: 11px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    color: #888;
+}
+
+.button {
+    width: 90px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb(0, 213, 255);
+    color: white;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.for-example {
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.img-5 {
+    margin: auto;
+    width: 100px;
+}
+.phone {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.img-6 {
+    width: 120px;
+    position: relative;
+    left: 70px;
+    top: 40px;
+}

@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');
+
+@import url(./hackathon-layouts/header.css);
+@import url(./hackathon-layouts/content.css);
+@import url(./hackathon-layouts/footer.css);
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    font-size: 13px;
+    background-color: rgb(248, 248, 248);
+}
+
+li {
+    list-style: none;
+}
+
